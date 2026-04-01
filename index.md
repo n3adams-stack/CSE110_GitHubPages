@@ -1,7 +1,3 @@
----
-layout: default
-theme: jekyll-theme-architect
----
 # Nick's Super Creative Github Page
 ## About me
 Hi! My name is Nick and I'm a computer science student at UCSD. I don't know why I put that exclamation mark at the beginning, approximately *zero* computer science students in history maintain their happiness to this point. 

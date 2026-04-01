@@ -38,10 +38,10 @@ https://leetcode.com/u/Dr3dgenY0r/
 # Section Links
 Not that this page is large enough to justify them, but I do need to include them so here ya go!
 
-[About me](#About-me).
+[About me](#about-me).
 
-[Toolstack](#Toolstack).
+[Toolstack](#toolstack).
 
-[Projects](#Projects).
+[Projects](#projects).
 
-[Other Platforms](#Other-PLatforms).
+[Other Platforms](#other-platforms).
